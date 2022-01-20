@@ -52,7 +52,7 @@ plt.show()
 
 ## Output:
 ![inp](./output.png)
-![inp](./output1.png)
+
 ![inp](./output2.png)
 
 
